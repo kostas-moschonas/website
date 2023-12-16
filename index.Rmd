@@ -1,0 +1,23 @@
+---
+title: "Kostas Moschonas"
+image: "pic_kostas_square.jpg"
+links:
+  - label: PubMed   
+    url: "https://pubmed.ncbi.nlm.nih.gov/?term=moschonas+k&sort=date"
+  - label: GitHub
+    url: "https://github.com/scitale"
+  - label: Email
+    url: "mailto:k.moschonas@nhs.net"
+output:
+  postcards::trestles
+---
+
+Hi! I am Kostas Moschonas, Cardiology trainee in London and a PhD candidate at [St Barts Hospital](https://www.bartshealth.nhs.uk/st-bartholomews) and [UCL](https://www.ucl.ac.uk/cardiovascular/research/clinical-science/centre-cardiovascular-disease-imaging).
+
+I have a specialist interest in cardiac imaging, Echocardiography and Cardiac Magnetic Resonance.
+
+Currently, I research Hypertrophic Cardiomyopathy (HCM), a genetic heart muscle disease, to better understand its mechanisms and develop new therapies. The main workstream focuses on blood flow abnormalities in Apical HCM. My research is funded by the [British Heart Foundation](https://www.bhf.org.uk/what-we-do).
+
+If you would like to know more about what I do, please do not hesitate to reach out!
+
+I am Greek-Italian but currently live in London with my wife. Outside of work, I like to dance Greek folk dances, Argentinian tango, play guitar, read, and hike in the fresh air!
