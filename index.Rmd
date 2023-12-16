@@ -5,7 +5,7 @@ links:
   - label: PubMed   
     url: "https://pubmed.ncbi.nlm.nih.gov/?term=moschonas+k&sort=date"
   - label: GitHub
-    url: "https://github.com/scitale"
+    url: "https://github.com/kostas-moschonas"
   - label: Email
     url: "mailto:k.moschonas@nhs.net"
 output:
