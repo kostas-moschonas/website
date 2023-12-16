@@ -1,6 +1,6 @@
 ---
 title: "Kostas Moschonas"
-image: "pic_kostas_square.jpg"
+image: "kostas_square.jpg"
 links:
   - label: PubMed   
     url: "https://pubmed.ncbi.nlm.nih.gov/?term=moschonas+k&sort=date"
