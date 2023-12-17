@@ -2,6 +2,8 @@
 title: "Kostas Moschonas"
 image: "kostas_square.jpg"
 links:
+  - label: LinkedIn   
+    url: "https://www.linkedin.com/in/moschonask/"
   - label: PubMed   
     url: "https://pubmed.ncbi.nlm.nih.gov/?term=moschonas+k&sort=date"
   - label: GitHub
