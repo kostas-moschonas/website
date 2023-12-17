@@ -4,6 +4,8 @@ image: "kostas_square.jpg"
 links:
   - label: LinkedIn   
     url: "https://www.linkedin.com/in/moschonask/"
+  - label: Google Scholar   
+    url: "https://scholar.google.com/citations?hl=en&user=cvyy3CwAAAAJ&view_op=list_works&sortby=pubdate"
   - label: PubMed   
     url: "https://pubmed.ncbi.nlm.nih.gov/?term=moschonas+k&sort=date"
   - label: GitHub
@@ -14,7 +16,7 @@ output:
   postcards::trestles
 ---
 
-Hi! I am Kostas Moschonas, Cardiology trainee in London and a PhD candidate at [St Barts Hospital](https://www.bartshealth.nhs.uk/st-bartholomews) and [UCL](https://www.ucl.ac.uk/cardiovascular/research/clinical-science/centre-cardiovascular-disease-imaging).
+Hi! I am Kostas Moschonas, Cardiology trainee in London, and PhD candidate at [St Barts Hospital](https://www.bartshealth.nhs.uk/st-bartholomews) and [UCL](https://www.ucl.ac.uk/cardiovascular/research/clinical-science/centre-cardiovascular-disease-imaging).
 
 I have a specialist interest in cardiac imaging, Echocardiography and Cardiac Magnetic Resonance.
 
