@@ -2,8 +2,6 @@
 title: "Kostas Moschonas"
 image: "kostas_square.jpg"
 links:
-  - label: LinkedIn   
-    url: "https://www.linkedin.com/in/moschonask/"
   - label: Google Scholar   
     url: "https://scholar.google.com/citations?hl=en&user=cvyy3CwAAAAJ&view_op=list_works&sortby=pubdate"
   - label: PubMed   
@@ -16,12 +14,6 @@ output:
   postcards::trestles
 ---
 
-Hi! I am Kostas Moschonas, Cardiology trainee in London, and PhD candidate at [St Barts Hospital](https://www.bartshealth.nhs.uk/st-bartholomews) and [UCL](https://www.ucl.ac.uk/cardiovascular/research/clinical-science/centre-cardiovascular-disease-imaging).
+Hi! I am Kostas Moschonas, Cardiology trainee, and PhD candidate at [St Barts Hospital](https://www.bartshealth.nhs.uk/st-bartholomews) and [UCL](https://www.ucl.ac.uk/cardiovascular/research/clinical-science/centre-cardiovascular-disease-imaging).
 
-I have a specialist interest in cardiac imaging, Echocardiography and Cardiac Magnetic Resonance.
-
-Currently, I research Hypertrophic Cardiomyopathy (HCM), a genetic heart muscle disease, to better understand its mechanisms and develop new therapies. My main workstream focuses on blood flow abnormalities in Apical HCM. For this work, I was awarded a grant by the [British Heart Foundation](https://www.bhf.org.uk/what-we-do).
-
-If you would like to know more about what I do, please do not hesitate to reach out!
-
-I am Greek-Italian but currently live in London with my wife. Outside of work, I like to dance Greek folk dances, Argentinian tango, play guitar, read, and hike in the fresh air!
+Currently I research blood flow abnormalities in Hypertrophic Cardiomyopathy.
