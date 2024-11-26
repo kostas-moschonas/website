@@ -1,0 +1,73 @@
+---
+title: "CMR resources"
+author: "Kostas Moschonas"
+date: "11/26/2024"
+categories: [cmr]
+image: "km_back_5.jpg"
+---
+
+A collection of resources to learn Cardiac Magnetic Resonance (CMR) for clinicians, prioritising open access material where available.
+
+# Physics
+
+The best place to start learning MRI physics are the outstanding [lecture series](https://www.youtube.com/watch?v=gtnOlotFgUY&list=PLWfaNqiSdtzVp5u79H_sFE4IPcjgwhKdQ) by Dr Michael Nel! Watch them all, watch them again, and make notes! They are excellent foundations!
+
+{{< video https://www.youtube.com/watch?v=gtnOlotFgUY&list=PLWfaNqiSdtzVp5u79H_sFE4IPcjgwhKdQ >}}
+
+Afterwards, I recommend these three open access reviews specifically for CMR, they are old but still very relevant:
+
+1.  Ridgway, John P. ‘Cardiovascular Magnetic Resonance Physics for Clinicians: Part I’. *Journal of Cardiovascular Magnetic Resonance* 12, no. 1 (30 November 2010): 71. <https://doi.org/10.1186/1532-429X-12-71>.
+
+2.  Biglands, John D., Aleksandra Radjenovic, and John P. Ridgway. ‘Cardiovascular Magnetic Resonance Physics for Clinicians: Part II’. *Journal of Cardiovascular Magnetic Resonance* 14, no. 1 (20 September 2012): 66. <https://doi.org/10.1186/1532-429X-14-66>.
+
+3.  Ferreira, Pedro F, Peter D Gatehouse, Raad H Mohiaddin, and David N Firmin. ‘Cardiovascular Magnetic Resonance Artefacts’. *Journal of Cardiovascular Magnetic Resonance* 15, no. 1 (January 2013): 41. <https://doi.org/10.1186/1532-429X-15-41>.
+
+At this point, you are ready to dive into some more advanced literature on physics and techniques. (The) [Dr Peter Kellman has a curated website](https://kellmanp.github.io/webpages/) with his publications and narrated presentations, all freely available. It is an incredibly valuable and altruistic initiative.
+
+[Questions and Answers in MRI](https://www.mriquestions.com/index.html#/) is a renowned website by Dr Allen Elster, where you can find small articles about pretty much anything MRI. It is a good companion if you have questions.
+
+[The Society of Cardiovascular Magnetic Resonance](https://www.scmr.org/) offers a number of introductory webinars at the cost of subscription, [including a in Physics](https://scmr.peachnewmedia.com/store/provider/custompage.php?pageid=30).
+
+# Textbooks
+
+There are no open access textbooks to date, but you can find many of them in z-library and library genesis. This is a small collection.
+
+[The EACVI Textbook of Cardiovascular Magnetic Resonance](https://academic.oup.com/esc/book/41268) is the official text by the [EACVI](https://www.escardio.org/Sub-specialty-communities/European-Association-of-Cardiovascular-Imaging-(EACVI)). Some chapters are very well written, e.g. myocardial iron overload, but others are hit and miss. Usually, if you are preparing for the [EACVI certification](https://www.escardio.org/Education/Career-Development/Certification/Cardiovascular-Magnetic-Resonance), you may not be able to avoid reading this book.
+
+The [Cardiovascular Magnetic Resonance, a Braunwald Companion](https://www.clinicalkey.com/#!/browse/book/3-s2.0-C2014002552X) is a larger, reference textbook, written in a very academic style. Despite its size, some common CMR topics are missing (e.g. hypertrabeculations, endomyocardial fibrsosis and many secondary cardiomyopathies) and some topics are perhaps given disproportionate emphasis (e.g. coronary and bypass grafting imaging, atherosclerotic plaque imaging).
+
+You can access this and many other textbooks by Elsevier via ClinicalKey with an OpenAthens account. If you have an NHS email account, click [here](https://openathens.nice.org.uk/) to register. Check if your academic affiliation also has access to ClinicalKey.
+
+You may have access to the [Cardiovascular MR Manual](https://link.springer.com/book/10.1007/978-3-319-20940-1), 2015, from your institution. It is good but now nearly 10 years old.
+
+[The EACVI CMR pocket guides](https://www.escardio.org/Sub-specialty-communities/European-Association-of-Cardiovascular-Imaging-(EACVI)/Research-and-Publications/CMR-Pocket-Guides) are good for a quick reference.
+
+# Journal articles
+
+Provided how rapidly the field of CMR evolves, you will find yourself reaching out for original research articles or good peer reviews even in the beginning of your journey. For me, this was frustrating at first, as I wanted one or two good books to tell me what to do, but that didn't happen. I advise you to search the literature for every topic you read and develop a disciplined note-keeping habit, even if you just write down a list of articles you found useful. I personally use OneNote, it is so quick to write there. For the power of habits, [Ryan Holiday can explain](https://dailystoic.com/the-power-of-habits/)!
+
+Definitely use the open source reference management tool [Zotero](https://www.zotero.org/)! It is not just for academics! Do not just keep your pdf articles in folders in your computer! This, combined with your disciplined notes, will become a powerful learning resource.
+
+I am in the process of curating a [Group Library](https://www.youtube.com/watch?v=tHSSjLAySVc) of landmark articles I find in my journey. Watch this space for more. And, hey!, if you have one or want to kickstart one instead, let me know, that's what Open Libraries are for!
+
+# Adult Congenital Heart Disease (ACHD)
+
+Dr Marina Hughes is responsible for most of the ACHD teaching at Barts, aimed at general CMR practitioners, not ACHD specialists. She recommends starting with the [EACVI pocket guide](https://www.escardio.org/Sub-specialty-communities/European-Association-of-Cardiovascular-Imaging-(EACVI)/Research-and-Publications/CMR-Pocket-Guides).
+
+::: callout-caution
+## Careful of the typo
+
+On page 33, Qp:Qs shunt calculation for PDA should be AoValve flow / Pulm valve flow, as with any post-tricuspid shunt.
+:::
+
+For the clinical cardiology background of ACHD, the chapters in [Braunwald Heart Disease](https://www.clinicalkey.com/?auth_type=SHIBBOLETH#!/browse/book/3-s2.0-C20191011278) are useful and concise, but you probably have your own resource already.
+
+# Miscellanea
+
+The collection of [Guidelines and Positions Statements](https://scmr.org/publications/scmr-guidelines-position-statements/) by the SCMR is useful. The EACVI also has a collection with [recommended journal articles](https://www.escardio.org/Guidelines/Recommended-Reading/Cardiovascular-Imaging/CMR), but it has not been updated for a long time. Finally, [the "How I Do" series by the SCMR](https://scmr.org/new-to-cmr/) is very good indeed, but unfortunately it is behind a subscription cost.
+
+If you are interested in obtaining official certification, [here](https://www.escardio.org/Education/Career-Development/Certification/Cardiovascular-Magnetic-Resonance) is more information. Regardless, you can also use the syllabus for certification as an initial guide to your self-directed learning!
+
+# Summary
+
+I hope this provides a good starting point to your new journey! Do not be discouraged with the absence of open-access textbooks. You can find many of them in z-library and library genesis. Nevertheless, they may not be as crucial to your learning as you anticipate. If you use the EACVI syllabus and pocket books to guide your study plan, you will find journal articles for essentially all the required topics! Do keep notes and use Zotero! Good luck!
