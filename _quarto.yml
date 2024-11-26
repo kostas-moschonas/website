@@ -6,10 +6,10 @@ website:
   navbar:
     right:
       - about.qmd
-      - icon: github
-        href: https://github.com/kostas-moschonas
       - text: bluesky
         href: https://bsky.app/profile/kosmosc.bsky.social
+      - icon: github
+        href: https://github.com/kostas-moschonas
 
 format:
   html:
@@ -17,4 +17,7 @@ format:
     css: styles.css
 
 editor: visual
+
+execute: 
+  freeze: auto
 
