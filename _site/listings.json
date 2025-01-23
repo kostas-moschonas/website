@@ -1,12 +1,18 @@
 [
   {
-    "listing": "/index.html",
+    "listing": "/old_index.html",
     "items": [
       "/posts/cmr_resources/cmr_resources.html"
     ]
   },
   {
     "listing": "/blog.html",
+    "items": [
+      "/posts/cmr_resources/cmr_resources.html"
+    ]
+  },
+  {
+    "listing": "/make_about.html",
     "items": [
       "/posts/cmr_resources/cmr_resources.html"
     ]
