@@ -4,5 +4,11 @@
     "items": [
       "/posts/cmr_resources/cmr_resources.html"
     ]
+  },
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/posts/cmr_resources/cmr_resources.html"
+    ]
   }
 ]

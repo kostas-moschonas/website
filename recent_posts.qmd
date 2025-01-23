@@ -1,0 +1,16 @@
+---
+title: "Kostas Moschonas"
+image: kostas_square.jpg
+about:
+  template: trestles
+  image-shape: round
+  links:
+    - text: Google Scholar
+      href: https://scholar.google.com/citations?hl=en&user=cvyy3CwAAAAJ&view_op=list_works&sortby=pubdate
+---
+
+Hi! I am Kostas Moschonas, Cardiology trainee, and PhD candidate at [St Barts Hospital](https://www.bartshealth.nhs.uk/st-bartholomews) and [UCL](https://www.ucl.ac.uk/cardiovascular/research/clinical-science/centre-cardiovascular-disease-imaging).
+
+Currently I research blood flow abnormalities in Hypertrophic Cardiomyopathy.
+
+I am Greek-Italian but currently live in London with my wife. I love to dance, play guitar, read, write, hike in the mountains, and watch K-dramas!

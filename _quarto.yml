@@ -1,11 +1,12 @@
 project:
   type: website
+  execute-dir: project
 
 website:
-  title: "blog"
+  title: "Kostas Moschonas"
   navbar:
     right:
-      - about.qmd
+      - blog.qmd
       - text: bluesky
         href: https://bsky.app/profile/kosmosc.bsky.social
       - icon: github
