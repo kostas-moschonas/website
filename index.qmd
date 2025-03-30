@@ -13,7 +13,7 @@ about:
 
 Hi! I am Kostas Moschonas, Cardiologist and Medical Researcher.
 
-Currently, I am completing my PhD at [St Barts Hospital](https://www.bartshealth.nhs.uk/st-bartholomews) and [UCL](https://www.ucl.ac.uk/cardiovascular/research/clinical-science/centre-cardiovascular-disease-imaging). My research uses heart ultrasound (Echocardiography) and Cardiac Magnetic Resonance, alongisde data science and machine learning techniques to explore the importance of blood flow abnormalities in Cardiovascular Disease, specifically Hypertrophic Cardiomyopathy, a common genetic heart muscle condition.
+Currently, I am completing my PhD at [St Barts Hospital](https://www.bartshealth.nhs.uk/st-bartholomews) and [UCL](https://www.ucl.ac.uk/cardiovascular/research/clinical-science/centre-cardiovascular-disease-imaging). My research uses [heart ultrasound](https://www.bhf.org.uk/informationsupport/tests/echocardiogram) (Echocardiogram) and [Cardiac Magnetic Resonance](https://www.bhf.org.uk/informationsupport/tests/mri-scan), alongisde data science and machine learning techniques to explore the importance of blood flow abnormalities in Cardiovascular Disease, specifically Hypertrophic Cardiomyopathy, a common genetic heart muscle condition. I am fully funded by a BHF Clinical Research Training Fellowship.
 
 I am Greek-Italian and currently live in London with my wife. I love to dance Greek Folk and Argentinian tango, play guitar, read, write, and hike in nature.
 
