@@ -2,19 +2,22 @@
   {
     "listing": "/old_index.html",
     "items": [
-      "/posts/cmr_resources/cmr_resources.html"
+      "/posts/cmr_resources/cmr_resources.html",
+      "/posts/brian_cox/brian_cox.html"
     ]
   },
   {
     "listing": "/blog.html",
     "items": [
-      "/posts/cmr_resources/cmr_resources.html"
+      "/posts/cmr_resources/cmr_resources.html",
+      "/posts/brian_cox/brian_cox.html"
     ]
   },
   {
     "listing": "/make_about.html",
     "items": [
-      "/posts/cmr_resources/cmr_resources.html"
+      "/posts/cmr_resources/cmr_resources.html",
+      "/posts/brian_cox/brian_cox.html"
     ]
   }
 ]
