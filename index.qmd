@@ -13,4 +13,4 @@ about:
 
 I am a Cardiologist and [British Heart Foundation](https://www.bhf.org.uk/what-we-do) Clinical Research Fellow specialising in Cardiac Magnetic Resonance, Echocardiography, and Inherited Cardiac Conditions.
 
-My research focuses on the clinical impact of novel therapies for inherited conditions such as [Hypertrophic Cardiomyopathy](https://www.bhf.org.uk/informationsupport/conditions/hypertrophic-cardiomyopathy) and the integration of machine learning to enhance our understanding of disease mechanisms.
+My research focuses on the clinical impact of novel therapies for inherited conditions such as [Hypertrophic Cardiomyopathy](https://www.bhf.org.uk/informationsupport/conditions/hypertrophic-cardiomyopathy).
